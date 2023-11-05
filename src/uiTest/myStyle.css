@@ -1,0 +1,47 @@
+#header{
+	-fx-text-fill:black;
+	-fx-font-family:'Goudy Stout';
+	-fx-font-size:20;
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+}
+.btn{
+	-fx-padding:10 20;
+	-fx-font-size:18;
+	-fx-font-weight:bold;
+	-fx-text-fill:white;
+}
+.btnregister{
+	-fx-background-color:green;
+}
+.btnclear{
+	-fx-background-color:orange;
+}
+#mainpane{
+	-fx-background-color:#c8e2bc;
+}
+.focusstyle:hover{
+	-fx-background-color:pink;
+}
+.radio-button:selected{
+	-fx-text-fill: red;
+	-fx-font-size:20; 
+}
+.button:hover{
+	-fx-background-color:#f4cccc;
+}
+.err{
+	-fx-text-fill:red;
+}
+#toppane{
+	-fx-background-color:#f4cccc;
+}
+#dashboard{
+	-fx-font-size:20;
+	-fx-font-weight:bolder;
+}
+.option{
+	-fx-background-color:#649542;
+	-fx-padding:10 40;
+	-fx-font-size:20;
+}

@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\New Java Project 2\fxTeaching\fxProject\.metadata\.plugins\org.eclipse.jdt.core
+3389435988.index
+3582756711.index
+1865797976.index
+1258964898.index
+1829522103.index
+1509799344.index

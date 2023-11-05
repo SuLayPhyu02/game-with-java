@@ -1,0 +1,77 @@
+.Button{
+	-fx-padding:10 10;
+}
+.Label{
+	-fx-border-style: solid;
+	-fx-border-width: 10px;
+	-fx-border-color:#F0D020;
+}
+#gameover{
+	-fx-text-fill:#eeaf61;
+	-fx-font-family:'Calibri';
+	-fx-font-size:30;
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+	-fx-alignment: center ;
+    -fx-padding: 10 ;
+}
+#win{
+	-fx-text-fill:#6a0d83;
+	-fx-font-family:'Calibri';
+	-fx-font-size:30;
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+	-fx-alignment: center ;
+    -fx-padding: 10 ;
+}
+#lose{
+	-fx-text-fill:#eeaf61;
+	-fx-font-family:'Calibri';
+	-fx-font-size:30;
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+	-fx-stroke: black;
+    -fx-stroke-width: 2px;
+    -fx-alignment: center ;
+    -fx-padding: 10 ;
+}
+#header{
+	-fx-text-fill:#F0D020;
+	-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+	-fx-font-family:'Calibri';
+	-fx-font-size:20;
+	-fx-font-weight:bolder;
+	-fx-font-style:italic;
+	-fx-alignment: center ;
+    -fx-padding: 10 ;
+}
+.mainpane{
+	-fx-background-color:#649542;
+}
+.mainpaneWin{
+	-fx-background-color:#eeaf61;
+}
+.mainpaneLose{
+	-fx-background-color:#cc0000;
+}
+#clickbtn{
+	-fx-background-color:#363b74;
+	-fx-padding:10 20;
+	-fx-font-size:18;
+	-fx-font-weight:bold;
+	-fx-text-fill:white;
+	
+}
+
+.Header{
+	-fx-text-fill:#6a0d83;
+	-fx-font-size:30;
+	-fx-font-weight:bolder;
+	-fx-padding :10;
+}
+.timer{
+	-fx-text-fill:#cc0000;
+	-fx-font-size:40;
+	-fx-font-weight:bolder;
+	-fx-padding :10;
+}
